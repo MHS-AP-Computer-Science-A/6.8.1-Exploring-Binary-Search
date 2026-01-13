@@ -42,7 +42,7 @@ public class Main {
 			//Set middle to the middle index
 			int middle = /* TODO */;
 			
-			//Is the middle index what we are looking for?
+			//Is the middle element what we are looking for?
 			if(/* TODO */ == toFind) {
 				//Found!, return the location
 				/* TODO */
@@ -82,3 +82,4 @@ public class Main {
 		}
 	}	
 }
+
